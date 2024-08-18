@@ -17,17 +17,17 @@ A  Keylogger is a tool designed to record every keystroke made on a computer or 
 
 ------------------- Importance of Keyloggers -----------------------
 
-- Security Monitoring: Helps in detecting unauthorized access and potential security breaches¹.
-- Parental Control: Allows parents to monitor their children's online activities to ensure their safety².
-- Employee Monitoring: Used by organizations to track employee productivity and prevent data leaks³.
-- Troubleshooting: Assists IT professionals in diagnosing and resolving technical issues⁴.
+- Security Monitoring: Helps in detecting unauthorized access and potential security breaches.
+- Parental Control: Allows parents to monitor their children's online activities to ensure their safety.
+- Employee Monitoring: Used by organizations to track employee productivity and prevent data leaks.
+- Troubleshooting: Assists IT professionals in diagnosing and resolving technical issues.
 
 ------------------- Uses of Keyloggers -------------------
 
-1. Cybersecurity: Identify and mitigate potential threats by monitoring suspicious activities¹.
-2. Parental Supervision: Keep an eye on children's internet usage to protect them from online dangers².
-3. Workplace Productivity: Ensure employees are adhering to company policies and using resources efficiently³.
-4. Technical Support: Diagnose and fix problems by analyzing user behavior and system interactions⁴.
+1. Cybersecurity: Identify and mitigate potential threats by monitoring suspicious activities.
+2. Parental Supervision: Keep an eye on children's internet usage to protect them from online dangers.
+3. Workplace Productivity: Ensure employees are adhering to company policies and using resources efficiently.
+4. Technical Support: Diagnose and fix problems by analyzing user behavior and system interactions.
 
 ---------------- Getting Started -----------------
 
